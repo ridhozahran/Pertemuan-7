@@ -1,0 +1,8 @@
+C:\pemrog\ConsoleApp09\person\bin\Debug\person.exe.config
+C:\pemrog\ConsoleApp09\person\bin\Debug\person.exe
+C:\pemrog\ConsoleApp09\person\bin\Debug\person.pdb
+C:\pemrog\ConsoleApp09\person\obj\Debug\person.csproj.AssemblyReference.cache
+C:\pemrog\ConsoleApp09\person\obj\Debug\person.csproj.SuggestedBindingRedirects.cache
+C:\pemrog\ConsoleApp09\person\obj\Debug\person.csproj.CoreCompileInputs.cache
+C:\pemrog\ConsoleApp09\person\obj\Debug\person.exe
+C:\pemrog\ConsoleApp09\person\obj\Debug\person.pdb
